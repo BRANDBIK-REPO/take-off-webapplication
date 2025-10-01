@@ -183,7 +183,7 @@ export default function HomeBanner() {
           <div className="bg-[#215273] rounded-t-2xl shadow-2xl px-8 py-6 md:py-12 flex flex-col md:flex-row items-center md:items-end gap-6 md:gap-0 md:w-[700px] lg:w-[900px] mr-0 ml-auto">
             <div className="flex-1 text-center md:text-left mb-4 md:mb-0">
               <h3 className="text-white text-lg md:text-[24px] font-semibold mb-1 italic">Early Bird Closing In</h3>
-              <p className="text-white/80 text-xs md:text-sm">(Until Sept 30)</p>
+              <p className="text-white/80 text-xs md:text-sm">(Until October 10)</p>
             </div>
             <div className="flex flex-row items-stretch w-full max-w-xl">
               <div className="flex-1 text-center flex flex-col justify-center">
